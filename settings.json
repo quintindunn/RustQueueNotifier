@@ -1,0 +1,15 @@
+{
+  "next": "You are next! Get ready!",
+  "webhook": "https://discordapp.com/api/webhooks/xxxxxxx/xxxxx",
+  "user_to_mention_id": 111111,
+  "thresholds":
+    {
+      "20":"You have 20 players before you!",
+      "10": "You have 10 players before you!",
+      "5": "You have 5 players before you!",
+      "4": "You have 4 players before you!",
+      "3": "You have 3 players before you!",
+      "2": "You have 2 players before you!",
+      "1": "You have 1 player before you!"
+    }
+}
